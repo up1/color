@@ -1,4 +1,4 @@
-module color
+module github.com/up1/color
 
 go 1.12
 
