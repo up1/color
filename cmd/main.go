@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-import "color"
-import d "color/demo"
+import "github.com/up1/color"
+import d "github.com/up1/color/demo"
 
 func main()  {
 	fmt.Println(color.Show("somkiat"))
